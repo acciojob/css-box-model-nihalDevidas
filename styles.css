@@ -1,55 +1,13 @@
 
 /* Your CSS Code here. */
 .div1{
-	width:250px;
-	border: 1px dashed black;
-	margin:auto;
-}
-.div2{
+	background-color:lightblue;
 	width:300px;
-	border:1px solid black;
-	padding: 20px 0px 0px 0px;
-	margin:auto;
-	margin-top:10px;
-	
-}
-.div3{
-	width:400px;
-	border: 1px solid #007aff;
-	background-color: #34aadc;
-	padding: 0px 0px 35px 0px;
-	margin:auto;
-	margin-top: 15px;
-	margin-bottom: 30px;
-	
-}
-.div4{
-	width:500px;
-	border: 2px solid blue;
-	background-color:#5856d6;
-	padding-top:3px;
-	padding-left:10px;
-	margin:auto;
-	margin-top:6px;
-	
-}
-.div5{
-	width:590px;
-	border: 1px solid black;
-	padding: 4px 0px 30px 8px;
+	padding:50px;
+	border: 15px solid blue;
+	margin:20px;
 }
 
 
 
 
-.spn1 , .spn2{
-	padding:7px;
-}
-.spn2{
-	margin-left:180px;
-}
-.text1{
-	padding-top: 10px;
-	padding-bottom: 3px;
-	text-align:center;
-}
